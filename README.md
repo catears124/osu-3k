@@ -1,5 +1,5 @@
-# osu!3k Dataset
-3000 osu! replays, videos, and metadata
+# [osu!3k Dataset](https://www.kaggle.com/datasets/ilymeow/osu3k/)
+a dataset of 3000 osu! replays and videos with metadata
 ![banner](img/o!3k_banner.png)
 
 
